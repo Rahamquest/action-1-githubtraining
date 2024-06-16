@@ -9,5 +9,5 @@ jobs:
             - name : list files
               run: ls
             - name: read file
-              run: cat READMD.md
+              run: cat README.md
             
